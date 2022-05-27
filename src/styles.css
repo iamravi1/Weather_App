@@ -76,10 +76,10 @@ div.form {
 
 @media only screen and (max-width: 600px) {
   .input {
-    padding: 13px 1%;
+    padding: 13px 1% !important;
   }
   .button {
-    padding: 13px 20%;
+    padding: 13px 20% !important;
   }
   form {
     margin-top: 20%;
